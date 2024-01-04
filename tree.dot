@@ -1,0 +1,4 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<CHCSCNC1 &le; -2.647<br/>gini = 0.203<br/>samples = 630<br/>value = [7, 559, 1, 63]<br/>class = 1>, fillcolor="#5ee852"] ;
